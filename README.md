@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  ✉️ Contact me at <a href="dipaklande2210@gmail.com">dipaklande2210@gmail.com</a>
+  ✉️ Contact me at <a href="mailto:dipaklande2210@gmail.com">dipaklande2210@gmail.com</a>
 </p>
-
+    
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -44,5 +44,3 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 </p>
-
----
